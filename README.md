@@ -2,7 +2,7 @@
 
 Welcome to the Ethereum AUTO Wallet Generator, a simple script to effortlessly generate Ethereum wallets in bulk. No need to spend a lot of time creating multiple wallets manually – just follow the steps below!
 
-## TL;DR => <br>
+## TL DR => <br>
 This script automates the process of generating Ethereum wallets. Clone the repository, install the dependencies, run the script, enter the desired number of wallets, and you're good to go!
 
 ## How to use?
